@@ -56,9 +56,9 @@ I included more demographics and more risk factors. Placed additional labels in 
 While the ticks on the axes allow us to infer approximate values for each circle, it's impossible to determine the true value without adding another layer of data. Enter tooltips: developers can implement these in their D3 graphics to reveal a specific element's data when the user hovers their cursor over the element. Add tooltips to your circles and display each tooltip with the data that the user has selected. Use the `d3-tip.js` plugin developed by [Justin Palmer](https://github.com/Caged)—we've already included this plugin in your assignment directory.
 
 
-### Assessment
+### Requirements/Assessment
 
-Your final product will be assessed on the following metrics:
+Final product will be assessed on the following metrics:
 
 * Creation of a **new** repository on GitHub called `D3-Challenge` (note the kebab-case). Do not add to an already existing repo.
 
@@ -72,8 +72,6 @@ Your final product will be assessed on the following metrics:
 
 * Ensure your repository has regular commits (i.e. 20+ commits) and a thorough README.md file
 
-**Good luck!**
 
-### Copyright
 
-Trilogy Education Services © 2019. All Rights Reserved.
+
