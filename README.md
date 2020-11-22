@@ -22,7 +22,7 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates 
 
 5. Push the above changes to GitHub or GitLab.
 
-## Your Task
+## The Task
 
 ### Core Assignment: D3 Dabbler (Required Assignment)
 
