@@ -221,8 +221,8 @@ function updateToolTip(chosenXAxis, chosenYAxis, circlesGroup) {
         .append("circle")
         .attr("cx", d => xLinearScale(d[chosenXAxis]))
         .attr("cy", d => yLinearScale(d[chosenYAxis]))
-        .attr("r", 10)
-        .attr("fill", "blue")
+        .attr("r", 11)
+        .attr("fill", "green")
         .attr("opacity", ".6");
 
     // append text (state abbreviation) to inside of circles 
