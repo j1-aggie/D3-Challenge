@@ -42,9 +42,10 @@ I used the D3 techniques that was taught in class, created a scatter plot that r
 
 ### Bonus: Impress the Boss (Optional Assignment)
 
-Why make a static graphic when D3 lets you interact with your data?
 
-![scatter with tip](https://user-images.githubusercontent.com/66078772/99896138-4535e600-2c53-11eb-8fb4-2446dba21dc0.PNG)
+scatter with tip](https://user-images.githubusercontent.com/66078772/99896138-4535e600-2c53-11eb-8fb4-2446dba21dc0.PNG)
+
+No more static visulizations when D3 allows to now interact with our sites.
 
 #### 1. More Data, More Dynamics
 
