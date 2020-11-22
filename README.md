@@ -28,9 +28,9 @@ The data set included with the assignment is based on 2014 ACS 1-year estimates 
 
 ![scatter plot](https://user-images.githubusercontent.com/66078772/99895956-b07eb880-2c51-11eb-820d-e04698aecce3.PNG)
 
-You need to create a scatter plot between two of the data variables such as `Healthcare vs. Poverty` or `Smokers vs. Age`.
+Created a scatter plot between two of the data variables such as `Healthcare vs. Poverty` or `Smokers vs. Age`.
 
-Using the D3 techniques we taught you in class, create a scatter plot that represents each state with circle elements. You'll code this graphic in the `app.js` file of your homework directory—make sure you pull in the data from `data.csv` by using the `d3.csv` function. Your scatter plot should ultimately appear like the image at the top of this section.
+I used the D3 techniques that was taught in class, created a scatter plot that represents each state with circle elements. I coded this graphic in the `app.js` file of my homework directory—making sure to pull in the data from `data.csv` by using the `d3.csv` function. My scatter plot appears like the image at the top of this section.
 
 * Include state abbreviations in the circles.
 
